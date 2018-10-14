@@ -1,0 +1,3 @@
+tsc -w para gerar o arquivo js
+nodemon --watch backend backend/dist/server.js  para rodar o nodemon
+node backend/dist/server rodar o servidor
