@@ -2,9 +2,6 @@
 
 ## 1. Passos para começar
 
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
 
 ### Instalando as Dependências
 
@@ -24,16 +21,7 @@
 
 `json-server db.json`
 
-## Goodies
 
-Expressões regulares usadas na validação de formulários
 
-### Email Regex
-
-`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
-
-### Number Regex
-
-`/^[0-9]*$/`
 
 
